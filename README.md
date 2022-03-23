@@ -1,4 +1,4 @@
-# Programming Project #1: Name?
+# Programming Project #1: Hangman
 Desription of 1st project in detail.
 
 ## GUI Image #1 (Start screen)
@@ -9,7 +9,7 @@ Desription of 1st project in detail.
 
 ## Class Diagram:
 
-# Programming Project #2: Name?
+# Programming Project #2: TicTacToe
 Desription of 2nd project in detail.
 
 ## GUI Image #1 (Start screen)
