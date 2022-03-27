@@ -17,7 +17,7 @@ Desription of 1st project in detail.
 Desription of 2nd project in detail.
 
 ## GUI Image #1 (Start screen)
-![Start Screen]()
+![Start Screen](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/StartScreenTicTacToe.JPG?raw=true)
 
 ## GUI Image #2 (Gameplay)
 ![Gameplay]()
