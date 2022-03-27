@@ -8,7 +8,7 @@ Desription of 1st project in detail.
 ![Gamplay](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/Gameplay.JPG?raw=true)
 
 ## GUI Image #3 (End of Game)
-![Endgame}]()
+![Endgame}](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/EndGame.JPG?raw=true)
 
 ## Class Diagram:
 
