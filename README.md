@@ -5,7 +5,10 @@ Desription of 1st project in detail.
 ![Start Screen](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/StartScreen.JPG?raw=true)
 
 ## GUI Image #2 (Gameplay)
+![Gamplay](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/Gameplay.JPG?raw=true)
+
 ## GUI Image #3 (End of Game)
+![Endgame}]()
 
 ## Class Diagram:
 
