@@ -20,7 +20,7 @@ Desription of 2nd project in detail.
 ![Start Screen](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/StartScreenTicTacToe.JPG?raw=true)
 
 ## GUI Image #2 (Gameplay)
-![Gameplay]()
+![Gameplay](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/GameplayTicTacToe.JPG?raw=true)
 
 ## GUI Image #3 (End of Game)
 ![Endgame]()
