@@ -8,15 +8,22 @@ Desription of 1st project in detail.
 ![Gamplay](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/Gameplay.JPG?raw=true)
 
 ## GUI Image #3 (End of Game)
-![Endgame}](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/EndGame.JPG?raw=true)
+![Endgame](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/EndGame.JPG?raw=true)
 
 ## Class Diagram:
+![Class Diagram]()
 
 # Programming Project #2: TicTacToe
 Desription of 2nd project in detail.
 
 ## GUI Image #1 (Start screen)
+![Start Screen]()
+
 ## GUI Image #2 (Gameplay)
+![Gameplay]()
+
 ## GUI Image #3 (End of Game)
+![Endgame]()
 
 ## Class Diagram:
+![Class Diagram]()
