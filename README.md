@@ -1,3 +1,6 @@
+# Programming Projects
+Group Members: Rylek Staker
+
 # Programming Project #1: Hangman
 Basic Hangman game. Try to guess the secret word before running out of tries.
 
