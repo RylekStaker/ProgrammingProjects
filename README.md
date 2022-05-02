@@ -5,7 +5,7 @@ Collaborators: Rylek Staker
 Basic Hangman game. Try to guess the secret word before running out of tries.
 
 ## GUI Image #1 (Start screen)
-![Start Screen](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/StartScreen.JPG?raw=true)
+![Start Screen](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/FallGuyStartScreen.png?raw=true)
 
 ## GUI Image #2 (Gameplay)
 ![Gamplay](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/Gameplay.JPG?raw=true)
