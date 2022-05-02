@@ -8,7 +8,7 @@ Basic Hangman game. Try to guess the secret word before running out of tries.
 ![Start Screen](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/FallGuyStartScreen.png?raw=true)
 
 ## GUI Image #2 (Gameplay)
-![Gamplay](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/Gameplay.JPG?raw=true)
+![Gamplay](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/FallGuyGameplay.png?raw=true)
 
 ## GUI Image #3 (End of Game)
 ![Endgame](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/EndGame.JPG?raw=true)
