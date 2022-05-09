@@ -14,7 +14,7 @@ Basic Hangman game. Try to guess the secret word before running out of tries.
 ![Endgame](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/FallGuyGameOver.png?raw=true)
 
 ## Class Diagram:
-![Class Diagram](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/HangmanClassDiagram.png?raw=true)
+![Class Diagram](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/FallGuyDiagram.drawio.png?raw=true)
 
 # Programming Project #2: TicTacToe
 Basic TicTacToe game. Try to get three in a row before your opponent.
