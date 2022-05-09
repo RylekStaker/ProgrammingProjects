@@ -1,7 +1,7 @@
 # Programming Projects
 Collaborators: Rylek Staker
 
-# Programming Project #1: Hangman
+# Programming Project #1: FallGuy
 Basic Hangman game. Try to guess the secret word before running out of tries.
 
 ## GUI Image #1 (Start screen)
