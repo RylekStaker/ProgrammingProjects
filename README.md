@@ -11,7 +11,7 @@ Basic Hangman game. Try to guess the secret word before running out of tries.
 ![Gamplay](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/FallGuyGameplay.png?raw=true)
 
 ## GUI Image #3 (End of Game)
-![Endgame](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/EndGame.JPG?raw=true)
+![Endgame](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/FallGuyGameOver.png?raw=true)
 
 ## Class Diagram:
 ![Class Diagram](https://github.com/RylekStaker/ProgrammingProjects/blob/main/images/HangmanClassDiagram.png?raw=true)
